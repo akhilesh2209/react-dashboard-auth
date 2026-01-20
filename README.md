@@ -4,7 +4,7 @@ A responsive dashboard application built using React.js with authentication, pro
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://react-dashboard-auth.vercel.app/
 
 ## Repository
 
